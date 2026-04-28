@@ -1,92 +1,52 @@
- {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titlePraneetha - Portfoliotitle
+    link rel=stylesheet href=style.css
+head
+body
+    div class=container
+        header
+            h1Praneethah1
+            h3Computer Science Studenth3
+        header
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f7f9;
-    color: #333;
-}
+        hr
 
-.container {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 30px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
+        section
+            h2About Meh2
+            pI am a Computer Science student interested in web development and programming. I am a quick learner and eager to gain practical knowledge.p
+        section
 
-header {
-    text-align: center;
-    margin-bottom: 20px;
-}
+        section
+            h2Educationh2
+            pB.Sc Computer Science (2024 - 2027)p
+        section
 
-h1 {
-    color: #2c3e50;
-    font-size: 2.5rem;
-    margin-bottom: 5px;
-}
+        section
+            h2Skillsh2
+            ul
+                liC Programmingli
+                liHTMLli
+                liCSSli
+            ul
+        section
 
-h3 {
-    color: #7f8c8d;
-    font-weight: 400;
-}
+        section
+            h2Projectsh2
+            div class=project
+                h3Personal Portfolio Websiteh3
+                pMy first HTMLCSS project to showcase my skills and background.p
+            div
+        section
 
-hr {
-    border: none;
-    height: 2px;
-    background-color:#2ecc71;
-    margin: 20px 0;
-}
-
-section {
-    margin-bottom: 30px;
-}
-
-h2 {
-    color: #2c3e50;
-    border-bottom: 2px solid #2ecc71;
-    padding-bottom: 5px;
-    margin-bottom: 15px;
-}
-
-ul {
-    list-style-position: inside;
-    margin-left: 10px;
-}
-
-li {
-    margin-bottom: 8px;
-}
-
-.project {
-    background-color: #ecf0f1;
-    padding: 15px;
-    border-radius: 5px;
-    margin-bottom: 15px;
-}
-
-.project h3 {
-    color: #2ecc71;
-    margin-bottom: 8px;
-}
-
-a {
-    color: #2ecc71b;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-footer {
-    text-align: center;
-    margin-top: 40px;
-    color: #7f8c8d;
-    font-size: 0.9rem;
-}
+        section
+            h2Contacth2
+            pEmailpraneethapabbinidi@36p
+            pGitHub a href=httpsgithub.comyour-username target=_blankgithub.comyour-usernameap
+        section
+    div
+body
+html
